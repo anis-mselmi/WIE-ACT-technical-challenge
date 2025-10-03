@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./agrinova%20logo.png" alt="Agrinova Logo" width="200"/>
+</p>
+
 # AgriNova
 
 ## Backend models (MongoDB + Mongoose)
