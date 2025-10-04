@@ -4,7 +4,9 @@
 
 # AgriNova
 
-## Backend models (MongoDB + Mongoose)
+## AgriNova is a mobile app that helps women farmers sell crops directly, find transport, and share farming knowledge with other farmers.
+
+
 
 I added production-ready Mongoose models for User, Product, Ride, ForumPost and Comment in the project root:
 
