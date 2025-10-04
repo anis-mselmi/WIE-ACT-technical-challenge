@@ -2,10 +2,7 @@
   <img src="./agrinova%20logo.png" alt="Agrinova Logo" width="200"/>
 </p>
 
-<p align="center">
-  <img src="./agrinova%20logo.png" alt="Agrinova Logo" width="200"/><br>
-  <h1>AgriNova</h1>
-</p>
+<h1 align="center">AgriNova</h1>
 
 
 ## AgriNova is a mobile app that helps women farmers sell crops directly, find transport, and share farming knowledge with other farmers.
